@@ -24,7 +24,7 @@ pypi-class
 │   └── module5.py
 ├── LICENSE
 ├── README.md
-└── module5.py
+└── setup.py
 ```
 
 ### Penggunaan
