@@ -1,2 +1,5 @@
 example.py
 __pycache__
+pypi_class.egg-info
+build
+dist
