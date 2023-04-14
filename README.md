@@ -29,7 +29,14 @@ pypi-class
 
 ### Penggunaan
 
-#### 1. Menggunakan import:
+#### 1. Install library:
+
+```bash
+pip install pypi-class
+```
+
+#### 2. Menggunakan import:
+
 ```python
 import pypi_class
 
@@ -40,7 +47,7 @@ pypi_class.subpackage1.Module4().greet()
 pypi_class.subpackage2.Module5().greet()
 ```
 
-#### 2. Menggunakan from import:
+#### 3. Menggunakan from import:
 ```python
 from pypi_class import Module1, Module2
 from pypi_class.subpackage1 import Module3, Module4
